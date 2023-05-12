@@ -1,0 +1,1 @@
+/home/acad/.config/i3
